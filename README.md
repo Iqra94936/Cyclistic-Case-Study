@@ -5,7 +5,7 @@ This project analyzes bike-share usage patterns to provide insights for business
 ## Project Structure
 - 'scripts/' R scripts for cleaning,analysis,visualization
 - "tableau/' Tableau dasboard
-- 'data/' cleaned dataset
+
   ---
   ## Tools Used
   - R(tidyverse, lubridate,dplyr,ggplot2)
